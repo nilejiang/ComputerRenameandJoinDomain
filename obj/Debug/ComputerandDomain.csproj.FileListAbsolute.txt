@@ -1,0 +1,30 @@
+D:\ChuKong\Work\C#\Powershell Development\ComputerandDomain\ComputerandDomain\obj\Debug\ComputerandDomain.csprojResolveAssemblyReference.cache
+D:\ChuKong\Work\C#\Powershell Development\ComputerandDomain\ComputerandDomain\obj\Debug\ComputerandDomain.Form1.resources
+D:\ChuKong\Work\C#\Powershell Development\ComputerandDomain\ComputerandDomain\obj\Debug\ComputerandDomain.Properties.Resources.resources
+D:\ChuKong\Work\C#\Powershell Development\ComputerandDomain\ComputerandDomain\obj\Debug\ComputerandDomain.csproj.GenerateResource.Cache
+D:\ChuKong\Work\C#\Customized Project\ComputerandDomain-For Suma\ComputerandDomain\obj\Debug\ComputerandDomain.csprojResolveAssemblyReference.cache
+D:\ChuKong\Work\C#\Customized Project\ComputerandDomain-For Suma\ComputerandDomain\obj\Debug\ComputerandDomain.Form1.resources
+D:\ChuKong\Work\C#\Customized Project\ComputerandDomain-For Suma\ComputerandDomain\obj\Debug\ComputerandDomain.Properties.Resources.resources
+D:\ChuKong\Work\C#\Customized Project\ComputerandDomain-For Suma\ComputerandDomain\obj\Debug\ComputerandDomain.csproj.GenerateResource.Cache
+D:\ChuKong\Work\C#\Customized Project\ComputerandDomain-For Suma\ComputerandDomain\obj\Debug\ComputerandDomain.About.resources
+D:\ChuKong\Work\C#\Customized Project\ComputerandDomain-For Suma\ComputerandDomain\bin\Debug\计算机退域并重命名工具.exe.config
+D:\ChuKong\Work\C#\Customized Project\ComputerandDomain-For Suma\ComputerandDomain\bin\Debug\计算机退域并重命名工具.exe
+D:\ChuKong\Work\C#\Customized Project\ComputerandDomain-For Suma\ComputerandDomain\bin\Debug\计算机退域并重命名工具.pdb
+D:\ChuKong\Work\C#\Customized Project\ComputerandDomain-For Suma\ComputerandDomain\obj\Debug\计算机退域并重命名工具.exe
+D:\ChuKong\Work\C#\Customized Project\ComputerandDomain-For Suma\ComputerandDomain\obj\Debug\计算机退域并重命名工具.pdb
+D:\ChuKong\Work\C#\Powershell Development\ComputerandDomain\ComputerandDomain\obj\Debug\ComputerandDomain.About.resources
+D:\ChuKong\Work\C#\Powershell Development\ComputerandDomain\ComputerandDomain\bin\Debug\计算机名称和加退域管理工具.exe.config
+D:\ChuKong\Work\C#\Powershell Development\ComputerandDomain\ComputerandDomain\bin\Debug\计算机名称和加退域管理工具.exe
+D:\ChuKong\Work\C#\Powershell Development\ComputerandDomain\ComputerandDomain\bin\Debug\计算机名称和加退域管理工具.pdb
+D:\ChuKong\Work\C#\Powershell Development\ComputerandDomain\ComputerandDomain\obj\Debug\计算机名称和加退域管理工具.exe
+D:\ChuKong\Work\C#\Powershell Development\ComputerandDomain\ComputerandDomain\obj\Debug\计算机名称和加退域管理工具.pdb
+D:\ChuKong\Work\C#\Powershell Development\RenameAndJoinDomain-en\ComputerandDomain\obj\Debug\ComputerandDomain.csprojResolveAssemblyReference.cache
+D:\ChuKong\Work\C#\Powershell Development\RenameAndJoinDomain-en\ComputerandDomain\obj\Debug\ComputerandDomain.About.resources
+D:\ChuKong\Work\C#\Powershell Development\RenameAndJoinDomain-en\ComputerandDomain\obj\Debug\ComputerandDomain.Form1.resources
+D:\ChuKong\Work\C#\Powershell Development\RenameAndJoinDomain-en\ComputerandDomain\obj\Debug\ComputerandDomain.Properties.Resources.resources
+D:\ChuKong\Work\C#\Powershell Development\RenameAndJoinDomain-en\ComputerandDomain\obj\Debug\ComputerandDomain.csproj.GenerateResource.Cache
+D:\ChuKong\Work\C#\Powershell Development\RenameAndJoinDomain-en\ComputerandDomain\bin\Debug\RenameAndJoinDomainTool.exe.config
+D:\ChuKong\Work\C#\Powershell Development\RenameAndJoinDomain-en\ComputerandDomain\bin\Debug\RenameAndJoinDomainTool.exe
+D:\ChuKong\Work\C#\Powershell Development\RenameAndJoinDomain-en\ComputerandDomain\bin\Debug\RenameAndJoinDomainTool.pdb
+D:\ChuKong\Work\C#\Powershell Development\RenameAndJoinDomain-en\ComputerandDomain\obj\Debug\RenameAndJoinDomainTool.exe
+D:\ChuKong\Work\C#\Powershell Development\RenameAndJoinDomain-en\ComputerandDomain\obj\Debug\RenameAndJoinDomainTool.pdb
